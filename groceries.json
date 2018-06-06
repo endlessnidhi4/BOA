@@ -1,0 +1,28 @@
+{
+	"groceries":[
+	{
+		"category": "fruit",
+		"item": "apples",
+		"type": "Honey Crisp",
+		"brand": "Little cuties",
+		"qty": 10
+	},
+	
+	{
+		"category": "beverage",
+		"item": "milk",
+		"type": "2%",
+		"brand": "generic",
+		"qty": "1 gallon"
+	},
+	
+	{
+		"category": "pasta",
+		"item": "Pasta",
+		"type": "Penne",
+		"brand": "Barilla",
+		"qty": 3
+	}
+
+	]
+}
